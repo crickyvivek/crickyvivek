@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @crickyvivek
-- 👀 I’m interested in gaming and litlle bit of codding
+- 👀 I’m interested in gaming and little bit of codding
 - 🌱 I’m currently learning python and html,css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
