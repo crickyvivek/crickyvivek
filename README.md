@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @
+- 👋 Hi, I’m @vivekvaleti
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python and good with HTML ,CSS and C.
 - 📫 vivekvaleti7053@gmail.com
